@@ -2,6 +2,7 @@
 Repositorio del diplomado de divulgación
 
 ##Introducción
+
 En este repositorio encontraran la documentación relacionada con el diplomado **"Difusión y Divulgación científica"**
 
 >Todo el contenido de este repositorio cuenta con licencia Creative Commons
